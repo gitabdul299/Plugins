@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plugins", "plugins\plugins.csproj", "{C49EA5AA-F253-4BE9-A0AB-5526634BF7F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Java Script", "Java Script", "{448809D7-A846-4FCD-896C-B7317923C25C}"
+	ProjectSection(SolutionItems) = preProject
+		Button.js = Button.js
+		closeAsLostWithReason.js = closeAsLostWithReason.js
+		ExecuteButtonOnDemand.js = ExecuteButtonOnDemand.js
+		hideMisc.js = hideMisc.js
+		htmlResource.js = htmlResource.js
+		MyFirst Script.js = MyFirst Script.js
+		newNotification.js = newNotification.js
+		openJS1.js = openJS1.js
+		OpportunityLossReason.html = OpportunityLossReason.html
+		OpportunityLossReason.js = OpportunityLossReason.js
+		RibbonWorkBench.js = RibbonWorkBench.js
+		setTimezone.js = setTimezone.js
+		ValidateVehicle.js = ValidateVehicle.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49EA5AA-F253-4BE9-A0AB-5526634BF7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49EA5AA-F253-4BE9-A0AB-5526634BF7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49EA5AA-F253-4BE9-A0AB-5526634BF7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49EA5AA-F253-4BE9-A0AB-5526634BF7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26138A4B-08CF-4C65-8249-AB2F1992531F}
+	EndGlobalSection
+EndGlobal
