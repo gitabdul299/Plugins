@@ -86,7 +86,10 @@
     <Compile Include="multipleRetrieve.cs" />
     <Compile Include="opportunityWonPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="sendEmailOnLeadCreation.cs" />
     <Compile Include="SetAccountTier.cs" />
+    <Compile Include="setRoom.cs" />
     <Compile Include="smartDevice.cs" />
     <Compile Include="totalContactRecord.cs" />
     <Compile Include="UpdateContactPlugin .cs" />
