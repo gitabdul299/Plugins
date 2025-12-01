@@ -81,7 +81,7 @@
     <Compile Include="emailOnLeadQualify.cs" />
     <Compile Include="FaultException.cs" />
     <Compile Include="FirstPluginWithCURD.cs" />
-    <Compile Include="lostLpportunity.cs" />
+    <Compile Include="lostOpportunity.cs" />
     <Compile Include="MakeID.cs" />
     <Compile Include="multipleRetrieve.cs" />
     <Compile Include="opportunityWonPlugin.cs" />
